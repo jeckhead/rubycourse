@@ -1,1 +1,0 @@
-puts 'putin huilo'
