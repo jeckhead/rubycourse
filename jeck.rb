@@ -1,1 +1,1 @@
-puts 'Heiio World'
+puts('Heiio World')
